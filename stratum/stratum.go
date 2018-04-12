@@ -25,12 +25,12 @@ import (
 
 	"github.com/btcsuite/go-socks/socks"
 
-	"github.com/decred/dcrd/chaincfg"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/wire"
+	"github.com/hybridnetwork/hxd/chaincfg"
+	"github.com/hybridnetwork/hxd/chaincfg/chainhash"
+	"github.com/hybridnetwork/hxd/wire"
 
-	"github.com/decred/gominer/util"
-	"github.com/decred/gominer/work"
+	"github.com/hybridnetwork/gominer/util"
+	"github.com/hybridnetwork/gominer/work"
 )
 
 var chainParams = &chaincfg.MainNetParams

@@ -20,5 +20,5 @@
   name = "github.com/davecgh/go-spew"
 
 [[constraint]]
-  branch = "master"
-  name = "github.com/decred/dcrd"
+  branch = "dev"
+  name = "github.com/hybridnetwork/hxd"

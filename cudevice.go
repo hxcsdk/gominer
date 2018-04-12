@@ -21,9 +21,9 @@ import (
 
 	"github.com/barnex/cuda5/cu"
 
-	"github.com/decred/gominer/nvml"
-	"github.com/decred/gominer/util"
-	"github.com/decred/gominer/work"
+	"github.com/hybridnetwork/gominer/nvml"
+	"github.com/hybridnetwork/gominer/util"
+	"github.com/hybridnetwork/gominer/work"
 )
 
 const (

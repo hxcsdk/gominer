@@ -16,10 +16,10 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/decred/gominer/adl"
-	"github.com/decred/gominer/cl"
-	"github.com/decred/gominer/util"
-	"github.com/decred/gominer/work"
+	"github.com/hybridnetwork/gominer/adl"
+	"github.com/hybridnetwork/gominer/cl"
+	"github.com/hybridnetwork/gominer/util"
+	"github.com/hybridnetwork/gominer/work"
 )
 
 // Return the GPU library in use.
